@@ -1,7 +1,7 @@
 [![MasterHead]("C:\Users\nimasha\Desktop\banner.png")]
 <h1 align="center">Hi 👋, I'm Nimasha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://dev.to/shristi26281534/web-developer-vs-software-developer-2en">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4332641-Developer/attachments/10331598?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashadulangi&label=Profile%20views&color=0e75b6&style=flat" alt="nimashadulangi" /> </p>
 
