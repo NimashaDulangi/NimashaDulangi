@@ -1,9 +1,9 @@
 [![MasterHead]("C:\Users\nimasha\Desktop\banner.png")]
 <h1 align="center">Hi 👋, I'm Nimasha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4332641-Developer/attachments/10331598?mode=media">
+<img align="center" alt="Coding" width="400" src="https://dribbble.com/shots/4332641-Developer/attachments/10331598?mode=media">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashadulangi&label=Profile%20views&color=0e75b6&style=flat" alt="nimashadulangi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nimashadulangi&label=Profile%20views&color=0e75b6&style=flat" alt="nimashadulangi" /> </p>
 
 - 🔭 I’m currently working on **development technologies like ReactJS , React Native , MongoDB , ExpressJS, NodeJS etc.**
 
@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **nimashadulanginew@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/nimasha dulangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimasha dulangi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nimashadulangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nimashadulangi" height="30" width="40" /></a>
 <a href="https://fb.com/nimasha dulangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimasha dulangi" height="30" width="40" /></a>
