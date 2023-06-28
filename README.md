@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\nimasha\Desktop\banner.png")]
+![logo](https://github.com/NimashaDulangi/NimashaDulangi/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nimasha</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
