@@ -1,6 +1,6 @@
 ![logo](https://github.com/NimashaDulangi/NimashaDulangi/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nimasha</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate Quality Assurance from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimashadulangi&label=Profile%20views&color=0e75b6&style=flat" alt="nimashadulangi" /> </p>
